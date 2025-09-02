@@ -5,9 +5,19 @@
   <a href="https://github.com/omilescuvlad">github.com/omilescuvlad</a>
 </p>
 
-<p align="center">
-  <img src="stand-cat.gif" alt="stand-cat" width="420"/>
-</p>
+<table>
+  <tr>
+    <!-- Left GIF -->
+    <td align="center" width="50%">
+      <img src="stand-cat.gif" alt="stand-cat" width="250"/>
+    </td>
+    <!-- Right GIF -->
+    <td align="center" width="50%">
+      <img src="another-gif.gif" alt="another gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
