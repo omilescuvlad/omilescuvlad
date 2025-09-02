@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <!-- Put your gif at: /assets/funny.gif and replace the src below -->
-  <img src="" alt="funny gif" width="420"/>
+  <img src="" alt="stand-catf" width="420"/>
 </p>
 
 ---
