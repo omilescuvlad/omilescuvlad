@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="stand-catf" width="420"/>
+  <img src="" alt="stand-cat" width="420"/>
 </p>
 
 ---
