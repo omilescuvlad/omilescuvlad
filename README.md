@@ -5,18 +5,20 @@
   <a href="https://github.com/omilescuvlad">github.com/omilescuvlad</a>
 </p>
 
+
 <table>
   <tr>
-    <!-- Left GIF -->
+    <!-- Left: Cat GIF -->
     <td align="center" width="50%">
       <img src="stand-cat.gif" alt="stand-cat" width="250"/>
     </td>
-    <!-- Right GIF -->
+    <!-- Right: Offer image -->
     <td align="center" width="50%">
-      <img src="another-gif.gif" alt="another gif" width="250"/>
+      <img src="offer.jpeg" alt="offer" width="250"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
