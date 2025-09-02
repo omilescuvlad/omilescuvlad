@@ -120,4 +120,4 @@
 
 
 <!-- Footer line -->
-<p align="center"><i>Building useful things, learning in public.</i></p>
+<p align="center"><i>Security is not about building walls, but about opening doors wisely.</i></p>
