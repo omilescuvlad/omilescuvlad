@@ -6,19 +6,9 @@
 </p>
 
 
-<table>
-  <tr>
-    <!-- Left: Cat GIF -->
-    <td align="center" width="50%">
-      <img src="stand-cat.gif" alt="stand-cat" width="250"/>
-    </td>
-    <!-- Right: Offer image -->
-    <td align="center" width="50%">
-      <img src="offer.jpeg" alt="offer" width="250"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="stand-cat.gif" alt="stand-cat" width="150"/>
+</p>
 
 
 ---
@@ -122,6 +112,12 @@
 - Email: <a href="mailto:vlad.omilescu@gmail.com">vlad.omilescu@gmail.com</a>
 - GitHub: <a href="https://github.com/omilescuvlad">omilescuvlad</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/omilescuvlad/">in/omilescuvlad</a>
+
+
+<p align="center">
+  <img src="offer.jpeg" alt="offer" width="250"/>
+</p>
+
 
 <!-- Footer line -->
 <p align="center"><i>Building useful things, learning in public.</i></p>
