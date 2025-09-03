@@ -1,13 +1,11 @@
 <h1 align="center">Vlad Omilescu</h1>
 <p align="center">
   <b>CS & Cybersecurity • Systems, Web, and a bit of Game Dev</b><br/>
-  <a href="mailto:vlad.omilescu@gmail.com">vlad.omilescu@gmail.com</a> ·
-  <a href="https://github.com/omilescuvlad">github.com/omilescuvlad</a>
 </p>
 
 
 <p align="center">
-  <img src="banner.gif" alt="stand-cat" width="150"/>
+  <img src="banner.gif" alt="banner" width="80%" />
 </p>
 
 
@@ -86,10 +84,6 @@
   </tr>
 </table>
 
-
-
-
-
 ---
 
 ### 🚀 Featured Projects
@@ -108,16 +102,12 @@
 
 ---
 
+<img align="right" alt="jpg" src="offer.jpeg" alt="offer" width="140"/>
+
 ### 📨 Reach Me
 - Email: <a href="mailto:vlad.omilescu@gmail.com">vlad.omilescu@gmail.com</a>
 - GitHub: <a href="https://github.com/omilescuvlad">omilescuvlad</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/omilescuvlad/">in/omilescuvlad</a>
-
-
-<p align="center">
-  <img src="offer.jpeg" alt="offer" width="250"/>
-</p>
-
 
 <!-- Footer line -->
 <p align="center"><i>Security is not about building walls, but about opening doors wisely.</i></p>
