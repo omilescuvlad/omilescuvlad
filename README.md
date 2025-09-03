@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="stand-cat.gif" alt="stand-cat" width="150"/>
+  <img src="banner.gif" alt="stand-cat" width="150"/>
 </p>
 
 
