@@ -90,6 +90,7 @@
 - **Network Mission** — a 2D puzzle-adventure that teaches cryptography (GML + native C extensions via OpenSSL).  
 - **Automated File System Organizer** — Python tool to keep directories sane.  
 - **Interactive Web CV** — Single-page React resume with responsive UI.
+- **Security Log Analyzer & Auto-Responder** — Python pipeline for parsing, detecting, alerting, and auto-responding to security events (rules, Slack/email/webhooks, firewall, tickets).
 
 
 ---
