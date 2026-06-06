@@ -1,13 +1,4 @@
 <h1 align="center">Vlad Omilescu</h1>
-
-
-<p align="center">
-  <img src="banner.gif" alt="banner" width="80%" />
-</p>
-
-
----
-<h1 align="center">Vlad Omilescu</h1>
 <p align="center">
   <b>Backend Development • TypeScript • NestJS • PostgreSQL</b><br/>
 </p>
